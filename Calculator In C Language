@@ -1,0 +1,245 @@
+#include <stdio.h>
+#include <conio.h>
+
+void main () {
+//Created By DragAdi 
+
+  char operator;
+  
+  printf("Enter Operators : ( + - * / )\n + : Addition\n - : Substraction\n * : Multiplication\n / : Division");
+  printf("\n\n For Algebra Mode Enter : $");
+  TryAgain:
+  scanf("%c",&operator);
+  switch(operator)
+    {
+    case '-': goto minus;
+       break;
+    case '/': goto division;
+       break;
+    case '*': goto multiple;
+       break;
+    case '+': goto add;
+       break;
+    case '$': goto algebra;
+       break;
+     default: goto TryAgain;
+    }
+      
+// Multiple
+multiple:
+{
+printf("\n");
+int a,b,c;
+pingmultiple:
+printf("Multiple Value 1st : ");
+   scanf("\n%d", &a ); 
+printf("Multiple Value 2nd : ");
+   scanf("\n%d", &b );
+c = a * b;
+//printf("\a");
+printf("My Super Computer Say, Its %d", c); 
+printf("\n\n");
+;
+goto pingmultiple;
+}
+     
+// Add
+add:
+{
+int aplus,bplus,cplus;
+printf("\aAddition\n\n");
+pingadd:
+printf("Enter 1st Numbric Value : ");
+   scanf("\n%d", &aplus ); 
+printf("Enter 2nd Numbric Value : ");
+   scanf("\n%d", &bplus );
+cplus = aplus + bplus;
+//printf("\a");
+printf("Answer 👉🏻 %d", cplus); 
+printf("\n\n");
+goto pingadd;
+}
+
+// Minus
+minus:
+{
+int aminus,bminus,cminus;
+printf("\aDoing Subtraction\n\n");
+pingminus:
+printf("Enter 1st Value : ");
+   scanf("\n%d", &aminus ); 
+printf("Enter 2nd Value : ");
+   scanf("\n%d", &bminus );
+cminus = aminus - bminus;
+//printf("\a");
+printf("   Answer Is %d ", cminus); 
+printf("\n\n");
+goto pingminus;
+}
+
+// Division
+division:
+{
+int adiv,bdiv,cdiv;
+printf("\aSelected Divide\n\n");
+pingdiv:
+printf(" Devide By : ");
+   scanf("\n%d", &adiv ); 
+printf(" Devide To : ");
+   scanf("\n%d", &bdiv );
+cdiv = adiv / bdiv;
+//printf("\a");
+printf("Its So Complex But Answer Is ~ %d", cdiv); 
+printf("\n\n");
+goto pingdiv;
+}
+
+/*
+  
+  algebra Mode Code Is From Here
+  By DragAdi
+
+*/
+  
+algebra:;
+  char agb;
+  printf("\nAlgebra Mode Activate 🚀");
+  printf("\nChoose Operators : ( 1 2 3 )");
+  printf("\n\n 9 For Perimeter Of Rectangle\n 8 For Area Of Circle \n 7 For Area Of Cube \n 6 For Area Of Triangle \n 1 Is For Average \n 2 Is For Square \n 3 Is For Cube");
+  printf("\n");
+  Tryagb: ;
+  scanf("%c",&agb);
+  switch(agb)
+    {
+    case '9': goto periofrec;
+       break;
+    case '8': goto areaofcircle;
+       break;
+    case '7': goto areaofcube;
+       break;
+    case '6': goto areaoftriangle;
+       break;
+    case '2': goto sqr;
+       break;
+    case '3': goto cube;
+       break;
+    case '1': goto avg;
+     default: goto Tryagb;
+    }
+  
+  // Square
+sqr:
+{
+int asqr,csqr;
+pingsqr:
+printf("Finding Square : ");
+   scanf("\n%d", &asqr ); 
+
+csqr = asqr * asqr;
+//printf("\a");
+printf(" So Easy, Its %d", csqr); 
+printf("\n\n");
+goto pingsqr;
+}
+
+// Cube
+cube:
+{
+int acube,ccube;
+pingcube:
+printf("Finding Cube : ");
+   scanf("\n%d", &acube ); 
+
+ccube = acube * acube * acube;
+//printf("\a");
+printf(" So Easy, Its %d", ccube); 
+printf("\n\n");
+goto pingcube;
+}
+
+// Average
+avg:
+{
+int aavg,bavg,cavg;
+printf("\aFinding Average\n\n");
+pingavg:
+printf("Value 1st : ");
+   scanf("\n%d", &aavg ); 
+printf("Value 2nd : ");
+   scanf("\n%d", &bavg );
+cavg = (aavg + bavg) / 2;
+//printf("\a");
+printf("My Middle Man Say, Its %d", cavg); 
+printf("\n\n");
+goto pingavg;
+}
+  
+//Perimeter Of Rectangle
+periofrec:
+{
+int porlength, porbreath, porans;
+printf("\aPerimeter Of Rectangle\n\n");
+pingpor:
+printf("Enter Length : ");
+   scanf("\n%d", &porlength); 
+printf("Enter Breadth : ");
+   scanf("\n%d", &porbreath);
+porans = (porlength + porbreath) * 2;
+//printf("\a");
+printf("Perimeter Is %d", porans); 
+printf("\n\n");
+goto pingpor;
+}
+
+//Area Of Circle
+areaofcircle:
+{
+float aocredi,aocans;
+printf("\aArea Of Circle ∅\n\n");
+pingaoc:
+printf("Enter Radius : ");
+   scanf("\n%f", &aocredi); 
+aocans = 3.14159 * aocredi * aocredi;
+//printf("\a");
+printf("Area Of Circle Is %f", aocans); 
+printf("\n\n");
+goto pingaoc;
+}
+
+//Surface Area of Cube
+areaofcube:
+{
+float cbr,cbans;
+printf("\aArea Of Cuboid\n\n");
+pingcuboid:
+printf("Enter Length : ");
+   scanf("\n%f", &cbr); 
+   cbans = 6 * cbr * cbr;
+//printf("\a");
+printf("Area Of Circle Is %f", cbans); 
+printf("\n\n");
+goto pingcuboid;
+}
+
+//AreaOfTriangle
+areaoftriangle:
+{
+int aotlength, aotbreath, aotans;
+printf("\aArea Of Triangle\n\n");
+pingaot:
+printf("Enter Base : ");
+   scanf("\n%d", &aotlength); 
+printf("Enter Height : ");
+   scanf("\n%d", &aotbreath);
+aotans = (aotlength * aotbreath) / 2;
+//printf("\a");
+printf("Area Of Triangle Is : %d", aotans); 
+printf("\n\n");
+goto pingaot;
+}
+
+fail:
+  printf("Try Again?");
+ 
+//Last Line
+}
