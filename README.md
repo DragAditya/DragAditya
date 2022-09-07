@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **DragAditya/DragAditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **C, C++, Java, HTML, CSS**
 
-- 👨‍💻 All of my projects are available at [My GitHub](My GitHub)
+- 👨‍💻 All of my projects are available at **My Github**
 
 - 💬 Ask me about **Gaming, Android, Pc**
 
