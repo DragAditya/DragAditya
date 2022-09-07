@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 <h3 align="center">A Passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dragadi&label=Profile%20views&color=0e75b6&style=flat" alt="dragadi" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=dragadi&label=Profile%20views&color=0e75b6&style=flat]" </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dragadi" alt="dragadi" /></a> </p>
+<p align="left"> <a href="http://clipart-library.com/clipart/zcX5M4e9i.htm" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
