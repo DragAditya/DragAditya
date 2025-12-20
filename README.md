@@ -1,5 +1,9 @@
 ## 💫 About Me:
-<br>👋 Hi, I’m Aditya Wagh (@DragAditya)<br>💻 Student | Aspiring Developer | Tech Enthusiast<br>🎓 Completed Study in Computer Science<br>💡 Passionate about coding, building bots, and solving problems with technology.<br>📊 Interested in automation, software development, and innovative solutions.<br>🎯 Goal: To learn, grow, and contribute to the tech community while achieving personal milestones.<br>📬 Reach me at waghaditya312@gmail.com<br>🌟 Fun Fact: Always up for a challenge—whether it's in code or in life!<br><br>
+- 🔭 I’m currently working on coding, building bots, and solving problems using technology
+- 🌱 I’m currently learning and growing in computer science and modern development tools
+- 💬 Ask me about programming, bot development, automation, and software development
+- 😄 Hobbies: Coding, building bots, exploring new tech, and problem-solving
+- ⚡ Fun fact: Always up for a challenge—whether it's in code or in life!
 
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
