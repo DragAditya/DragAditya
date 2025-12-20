@@ -76,9 +76,20 @@
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DragAditya&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DragAditya&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DragAditya&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<div>
+  <table align="center">
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=DragAditya&show_icons=true&theme=github_dark&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&bg_color=0d1117" alt="Aditya's Github Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DragAditya&theme=github_dark&title_color=58a6ff&text_color=8b949e&bg_color=0d1117&layout=compact" alt="Aditya's Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DragAditya&bg_color=0d1117&color=58a6ff&line=8b949e&point=f7786b&area=true&hide_border=false)
 
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -91,6 +102,3 @@
 
   ## 💰 You can help me by Donating
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/DragAditya) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
