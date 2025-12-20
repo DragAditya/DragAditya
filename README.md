@@ -7,8 +7,16 @@
 
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+[![GitHub followers](https://img.shields.io/github/followers/DragAditya?color=58A6FF&logo=GitHub&style=for-the-badge&logoColor=white)](https://github.com/DragAditya?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=DragAditya&label=Profile%20views&color=58A6FF&style=for-the-badge)](https://github.com/DragAditya)
+[![GitHub stars](https://img.shields.io/github/stars/DragAditya?color=58A6FF&logo=github&style=for-the-badge)](https://github.com/DragAditya)
+[![Total Code Time](https://img.shields.io/endpoint?url=https://wakatime-badge-gamma.vercel.app/api/wakatime-badge&style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/)
+
+<img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/DragAdi) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AdityaWagh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.aditya.in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DragAdi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MeneKudhKiya) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AdityaWagh) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.aditya.in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DragAdi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MeneKudhKiya) 
 
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -94,9 +102,7 @@
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-[![](https://visitcount.itsvg.in/api?id=DragAditya&icon=2&color=5)](https://visitcount.itsvg.in)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical).in)
 
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
