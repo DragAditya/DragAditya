@@ -5,11 +5,11 @@
 <div align="center">
 
 <!-- CINEMATIC HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d1117,60:0a1628,100:0d2137&height=280&section=header&text=ADITYA%20WAGH&fontSize=80&fontColor=58a6ff&fontAlign=50&fontAlignY=40&desc=I%20build%20things%20that%20shouldn't%20exist%20yet.&descSize=20&descColor=8b949e&descAlign=50&descAlignY=62&stroke=58a6ff&strokeWidth=1&animation=scaleIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d1117,60:0a1628,100:0d2137&height=280&section=header&text=ADITYA%20WAGH&fontSize=70&fontColor=58a6ff&fontAlign=50&fontAlignY=38&fontFamily=JetBrains%20Mono&desc=I%20build%20things%20that%20shouldn't%20exist%20yet.&descSize=17&descColor=8b949e&descAlign=50&descAlignY=58&stroke=58a6ff&strokeWidth=1&animation=scaleIn" width="100%"/>
 
 <!-- TYPING SVG — REAL FACTS ABOUT ADITYA -->
 <a href="https://github.com/DragAditya">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&random=true&width=720&height=50&lines=🔬+Building+CodeScan+%7C+Dual+AI+Debugging+Platform;🚀+ALTER+is+LIVE+→+projectdebugger.onrender.com;📦+npm+install+-g+dragadix+%7C+try+it+right+now;🕳️+Black+holes+are+just+nature's+404+errors;☁️+AWS+%7C+Supabase+%7C+FastAPI+%7C+React+%7C+Gemini+%7C+Grok;🏴‍☠️+One+Piece+taught+me+more+than+any+MBA;💀+MCA+student+by+day%2C+developer+by+night;🌌+From+Shirpur%2C+dreaming+bigger+than+the+universe" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=720&height=50&lines=Building+CodeScan+%7C+Dual+AI+Debugging+Platform;ALTER+is+LIVE+-+projectdebugger.onrender.com;npm+install+-g+dragadix+%7C+try+it+right+now;Black+holes+are+just+nature%27s+404+errors;AWS+%7C+Supabase+%7C+FastAPI+%7C+React+%7C+Gemini+%7C+Grok;One+Piece+taught+me+more+than+any+MBA;MCA+student+by+day%2C+developer+by+night;From+Shirpur%2C+dreaming+bigger+than+the+universe" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -46,6 +46,16 @@
 </p>
 
 </div>
+
+<!-- QUICK NAV -->
+<p align="center">
+  <a href="#-whoami"><img src="https://img.shields.io/badge/-Whoami-161b22?style=flat-square&labelColor=161b22&color=58A6FF"/></a>
+  <a href="#-ls-projects---all---detailed"><img src="https://img.shields.io/badge/-Projects-161b22?style=flat-square&labelColor=161b22&color=58A6FF"/></a>
+  <a href="#-cat-tech_stackyaml"><img src="https://img.shields.io/badge/-Tech_Stack-161b22?style=flat-square&labelColor=161b22&color=58A6FF"/></a>
+  <a href="#-neofetch---github"><img src="https://img.shields.io/badge/-GitHub_Stats-161b22?style=flat-square&labelColor=161b22&color=58A6FF"/></a>
+  <a href="#-git-log---journey"><img src="https://img.shields.io/badge/-Journey-161b22?style=flat-square&labelColor=161b22&color=58A6FF"/></a>
+  <a href="#-curl--s-apiconnectaditya"><img src="https://img.shields.io/badge/-Contact-161b22?style=flat-square&labelColor=161b22&color=58A6FF"/></a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -121,15 +131,13 @@ const ADITYA_WAGH = {
 
 | &nbsp; | Project | Description | Stack | Status |
 |:------:|:--------|:-----------|:------|:------:|
-| 🔬 | **[CodeScan](https://github.com/DragAditya)** | AI-powered debugging platform with **dual Gemini + Grok** inference. Detects bugs, explains errors in plain language. Built as MCA academic submission with teammate Akshay Borse. | `FastAPI` `React/Vite` `Supabase` `Gemini` `Grok` `Python` | `🟢 Active` |
-| 💀 | **[VoidScan](https://github.com/DragAditya/VoidScan)** | Dead code detector for any GitHub repo. Multi-language AST analysis with D3.js visualizations. Deployed full-stack on Render + Vercel. | `FastAPI` `React` `D3.js` `AST` `Tailwind` | `🟢 Live` |
-| 🤖 | **[ALTER](https://projectdebugger.onrender.com)** | AI code debugger powered by Gemini API. Paste broken code → get human-readable fixes. My first production AI app. Live since 2024. | `Python` `Gemini API` `Render` | `🟢 Live ↗` |
-| 📦 | **[DRAGX](https://npmjs.com/package/dragadix)** | CLI automation toolkit published on npm. `npm install -g dragadix` — it just works. | `Node.js` `CLI` `npm Registry` | `🟢 Published` |
-| 💍 | **[Padmavati Girvi](https://github.com/DragAditya)** | Gold loan management system for family jewelry biz in Amalner. Google Auth whitelist, Firebase realtime sync, photo capture, Chart.js analytics. PWA for 3 family members. | `Vanilla JS` `Firebase` `Chart.js` `PWA` | `🔨 Building` |
-| 🌌 | **[Portfolio V7](https://dragadi-resume.vercel.app)** | Personal portfolio with Three.js WebGL background, command palette, 3D flip cards, magnetic buttons, dark/gold design system. | `Three.js` `WebGL` `CSS` `Vercel` | `🟢 Live ↗` |
-| 🔥 | **[BurnerNotes](https://github.com/DragAditya)** | Privacy-first self-destructing messaging. Messages vanish after reading. Zero-account required. | `React` `Supabase` `Edge Fn` `E2E Encryption` | `🔨 WIP` |
-| 🚀 | **[UniStro](https://github.com/DragAditya)** | Telegram-based photo backup app. Single Python file with embedded vanilla JS frontend. SQLite + Telethon. | `Python` `Telethon` `SQLite` `FastAPI` | `🟡 Stable` |
-| 📊 | **[GitHub Dashboard](https://github.com/DragAditya)** | Full GitHub Actions automation: auto-labeling, auto-assignment, auto-commenting, contribution tracking deployed to Pages. | `GitHub Actions` `YAML` `Pages` | `🟢 Running` |
+| 🔬 | **[CodeScan](https://github.com/DragAditya)** | AI-powered code analysis and debugging platform that scans code for bugs, security issues, and optimization opportunities using modern AI. | `Python` `FastAPI` `Gemini API` `React` `Supabase` | `🟢 Active` |
+| ⚡ | **[CodeScan_Advance](https://github.com/DragAditya)** | Advanced version of CodeScan with enhanced AI analysis, deeper security scanning, performance insights, and intelligent debugging workflows. | `Python` `FastAPI` `Gemini API` `React` `Tailwind CSS` | `🟢 Active` |
+| 📦 | **[DragX-CLI](https://npmjs.com/package/dragadix)** | Natural-language CLI for Git and GitHub. Execute complex Git operations using simple English or Hinglish commands. Published on npm. | `Node.js` `CLI` `npm` `GitHub API` | `🟢 Published` |
+| 🤖 | **[GithubAutomation](https://github.com/DragAditya)** | Automates GitHub workflows including repository management, commits, releases, and developer productivity tasks. | `Python` `GitHub API` `Automation` | `🟢 Active` |
+| 🎮 | **[FunTimer-Game](https://github.com/DragAditya)** | Ultra-responsive browser timer game with swipe controls, fullscreen support, smooth animations, and mobile-first gameplay. | `HTML` `CSS` `JavaScript` | `🟢 Live` |
+| 🎬 | **[MarsTapes](https://marstapes.onrender.com)** | Modern media and content management platform for organizing and exploring digital collections with a sleek interface. | `React` `JavaScript` `Tailwind CSS` | `🟡 Stable` |
+| 🛡️ | **[ProjectDebugger](https://projectdebugger.onrender.com)** | AI-powered debugging assistant that explains programming errors in simple language and provides intelligent code fixes. | `Python` `Gemini API` `FastAPI` | `🟢 Active` |
 
 <div align="center">
 
@@ -292,60 +300,8 @@ const ADITYA_WAGH = {
 
 <!-- ACTIVITY GRAPH -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DragAditya&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f7786b&area=true&area_color=132032&hide_border=false&border_color=21262d&radius=8&custom_title=Aditya's%20Contribution%20Timeline" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DragAditya&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f7786b&area=true&area_color=132032&hide_border=true&radius=8&custom_title=Aditya's%20Contribution%20Timeline" width="100%"/>
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
----
-
-## `> contrib --snake`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DragAditya/DragAditya/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DragAditya/DragAditya/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/DragAditya/DragAditya/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-</div>
-
-<details>
-<summary><b>⚙️ Enable Snake Animation — GitHub Action</b></summary>
-<br/>
-
-Create `.github/workflows/snake.yml`:
-
-```yaml
-name: 🐍 Contribution Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: DragAditya
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -524,7 +480,7 @@ Stargazing       ███████░░░░░  70%
 <br/>
 
 <!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2137,40:0a1628,100:0d1117&height=160&section=footer&text=Thanks+for+visiting!+🏴‍☠️&fontSize=24&fontColor=58a6ff&fontAlignY=60&animation=fadeIn&desc=Built+in+Maharashtra+·+Fueled+by+Tea+·+Shipped+with+❤️&descSize=14&descColor=6e7681&descAlignY=80" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2137,40:0a1628,100:0d1117&height=160&section=footer&text=Thanks+for+visiting!+🏴‍☠️&fontSize=22&fontColor=58a6ff&fontFamily=JetBrains%20Mono&fontAlignY=60&animation=fadeIn&desc=Built+in+Maharashtra+·+Fueled+by+Tea+·+Shipped+with+❤️&descSize=13&descColor=6e7681&descAlignY=80" width="100%"/>
 
 <sub>
   <code>dragaditya.ts</code> — compiled before 8 AM, somewhere in Maharashtra ·
