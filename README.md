@@ -1,9 +1,59 @@
 <!-- ████████████████████████████████████████████████████████████ -->
 <!--       ADITYA WAGH — GITHUB README · ULTRA INFINITY EDITION  -->
 <!-- ████████████████████████████████████████████████████████████ -->
+
+<!-- ───────────────────────────────────────────── -->
+<!--                 HERO BANNER                  -->
+<!-- ───────────────────────────────────────────── -->
+
 <p align="center">
-  <img src="./assets/readme-banner.png" alt="Project Banner">
+  <img src="./assets/readme-banner.png" width="100%" alt="DragAditya Banner"/>
 </p>
+
+<br>
+
+<div align="center">
+
+<h1>
+ᴅʀᴀɢᴀᴅɪᴛʏᴀ
+</h1>
+
+<p>
+Software • AI • Open Source • Dreamer
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3500&pause=1200&color=C792EA&center=true&vCenter=true&width=700&lines=Building+beautiful+software.;AI+Developer+%7C+Full+Stack.;Turning+ideas+into+reality.;Code.+Coffee.+Cosmos.;Always+learning..." />
+
+<br><br>
+<p align="center">
+
+<a href="https://github.com/DragAditya">
+<img src="https://komarev.com/ghpvc/?username=DragAditya&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge"/>
+</a>
+
+<a href="https://dragadi-resume.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.npmjs.com/package/dragadix">
+<img src="https://img.shields.io/badge/dragadix-CB3837?style=for-the-badge&logo=npm"/>
+</a>
+
+<a href="https://projectdebugger.onrender.com">
+<img src="https://img.shields.io/badge/ALTER-Live-7C3AED?style=for-the-badge"/>
+</a>
+
+</p>
+</div>
+
+---
+
+
+
+
+
+
+
 
 
 <div align="center">
