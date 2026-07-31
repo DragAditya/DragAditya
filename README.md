@@ -422,20 +422,6 @@ Tea • Anime • Astronomy
 <br>
 
 <!-- ========================= -->
-<!--        TROPHIES           -->
-<!-- ========================= -->
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=DragAditya&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4"/>
-
-</div>
-
-<br>
-
-<!-- ========================= -->
 <!--     CONTRIBUTION SNAKE    -->
 <!-- ========================= -->
 
@@ -449,47 +435,11 @@ Tea • Anime • Astronomy
 
 <br>
 
-<!-- ========================= -->
-<!--      CODING ACTIVITY      -->
-<!-- ========================= -->
 
-## ⚡ Development Snapshot
 
-<div align="center">
 
-| 🚀 Focus | 📦 Projects | 💻 Languages | 🔥 Status |
-|:-------:|:-----------:|:------------:|:---------:|
-| AI & Full Stack | 15+ | Python · JS · Java | Building Daily |
 
-</div>
 
-<br>
-
-<!-- ========================= -->
-<!--      QUICK FACTS          -->
-<!-- ========================= -->
-
-## 💜 Fun Facts
-
-<div align="center">
-
-🟣 Mostly coding after sunset
-
-☕ Tea > Coffee
-
-🌌 Space enthusiast
-
-🏴‍☠️ One Piece fan
-
-🤖 Loves building AI tools
-
-🚀 Always shipping something
-
-</div>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:0D1117&height=2"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:0D1117&height=2"/>
 
