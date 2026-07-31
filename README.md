@@ -1,6 +1,10 @@
 <!-- ████████████████████████████████████████████████████████████ -->
 <!--       ADITYA WAGH — GITHUB README · ULTRA INFINITY EDITION  -->
 <!-- ████████████████████████████████████████████████████████████ -->
+<p align="center">
+  <img src="./assets/readme-banner.png" alt="Project Banner">
+</p>
+
 
 <div align="center">
 
