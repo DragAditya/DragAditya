@@ -10,8 +10,7 @@
 
 <div align="center">
 
-# ᴅʀᴀɢᴀᴅɪᴛʏᴀ
-
+<h1 align="center">ᴅʀᴀɢᴀᴅɪᴛʏᴀ</h1> 
 ### Software Engineer • AI Builder • Open Source • Dreamer
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3500&pause=1200&color=C792EA&center=true&vCenter=true&width=750&lines=Building+beautiful+software.;AI+Developer+%7C+Full+Stack.;Turning+ideas+into+reality.;Creating+tools+people+love.;Code.+Coffee.+Cosmos." />
