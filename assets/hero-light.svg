@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 400" width="1000" height="400" fill="none" role="img" aria-labelledby="heroTitle heroDesc">
+  <title id="heroTitle">DragAditya — Aditya Wagh</title>
+  <desc id="heroDesc">Aditya Wagh, AI engineer and full-stack builder from Maharashtra, India. Building AI tools, shipping ideas, dreaming beyond Earth.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FDFDFE"/>
+      <stop offset=".55" stop-color="#F7F5FC"/>
+      <stop offset="1" stop-color="#FBFAFE"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1000" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6" stop-opacity=".55"/>
+      <stop offset=".5" stop-color="#E4E4E7" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#06B6D4" stop-opacity=".4"/>
+    </linearGradient>
+    <linearGradient id="ink" x1="56" y1="120" x2="540" y2="186" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111113"/>
+      <stop offset="1" stop-color="#6D28D9"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="56" y1="0" x2="340" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="planet" cx="34%" cy="28%" r="78%">
+      <stop stop-color="#F5F3FF"/>
+      <stop offset=".48" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#4C1D95"/>
+    </radialGradient>
+    <radialGradient id="shade" cx="30%" cy="26%" r="82%">
+      <stop stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset=".62" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity=".55"/>
+    </radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" stroke="#09090B" stroke-opacity=".035" stroke-width="1"/>
+    </pattern>
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="58"/>
+    </filter>
+    <clipPath id="frame">
+      <rect width="1000" height="400" rx="24"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1000" height="400" fill="url(#bg)"/>
+    <g filter="url(#soft)">
+      <circle cx="120" cy="10" r="250" fill="#7C3AED" opacity=".13"/>
+      <circle cx="900" cy="410" r="250" fill="#0891B2" opacity=".09"/>
+      <circle cx="840" cy="70" r="130" fill="#7C3AED" opacity=".13"/>
+    </g>
+    <rect width="1000" height="400" fill="url(#grid)"/>
+
+    <g>
+      <circle cx="64" cy="34" r="1.0" fill="#7C3AED" opacity=".26"><animate attributeName="opacity" values=".15;.7;.15" dur="4s" begin="0.2s" repeatCount="indefinite"/></circle>
+      <circle cx="118" cy="300" r="0.8" fill="#7C3AED" opacity=".26"><animate attributeName="opacity" values=".1;.5;.1" dur="6s" begin="1.3s" repeatCount="indefinite"/></circle>
+      <circle cx="168" cy="46" r="0.7" fill="#7C3AED" opacity=".26"><animate attributeName="opacity" values=".15;.7;.15" dur="6s" begin="1.4s" repeatCount="indefinite"/></circle>
+      <circle cx="232" cy="356" r="0.9" fill="#7C3AED" opacity=".26"></circle>
+      <circle cx="286" cy="80" r="0.6" fill="#7C3AED" opacity=".26"><animate attributeName="opacity" values=".15;.7;.15" dur="5s" begin="2.6s" repeatCount="indefinite"/></circle>
+      <circle cx="352" cy="30" r="0.8" fill="#7C3AED" opacity=".26"><animate attributeName="opacity" values=".1;.5;.1" dur="6s" begin="1.3s" repeatCount="indefinite"/></circle>
+      <circle cx="412" cy="370" r="0.7" fill="#7C3AED" opacity=".26"><animate attributeName="opacity" values=".15;.7;.15" dur="4s" begin="0.8s" repeatCount="indefinite"/></circle>
+      <circle cx="470" cy="58" r="0.6" fill="#7C3AED" opacity=".26"></circle>
+      <circle cx="556" cy="24" r="0.8" fill="#7C3AED" opacity=".26"><animate attributeName="opacity" values=".15;.7;.15" dur="6s" begin="1.9999999999999998s" repeatCount="indefinite"/></circle>
+      <circle cx="614" cy="96" r="0.6" fill="#7C3AED" opacity=".26"><animate attributeName="opacity" values=".1;.5;.1" dur="6s" begin="1.3s" repeatCount="indefinite"/></circle>
+      <circle cx="668" cy="350" r="0.8" fill="#7C3AED" opacity=".26"><animate attributeName="opacity" values=".15;.7;.15" dur="5s" begin="0.2s" repeatCount="indefinite"/></circle>
+      <circle cx="726" cy="44" r="0.7" fill="#7C3AED" opacity=".26"></circle>
+      <circle cx="944" cy="36" r="0.9" fill="#7C3AED" opacity=".26"><animate attributeName="opacity" values=".15;.7;.15" dur="4s" begin="1.4s" repeatCount="indefinite"/></circle>
+      <circle cx="972" cy="296" r="0.8" fill="#7C3AED" opacity=".26"><animate attributeName="opacity" values=".1;.5;.1" dur="6s" begin="1.3s" repeatCount="indefinite"/></circle>
+      <circle cx="880" cy="112" r="0.6" fill="#7C3AED" opacity=".26"><animate attributeName="opacity" values=".15;.7;.15" dur="6s" begin="2.6s" repeatCount="indefinite"/></circle>
+      <circle cx="616" cy="210" r="0.5" fill="#7C3AED" opacity=".26"></circle>
+      <circle cx="548" cy="148" r="0.5" fill="#7C3AED" opacity=".26"><animate attributeName="opacity" values=".15;.7;.15" dur="5s" begin="0.8s" repeatCount="indefinite"/></circle>
+      <circle cx="740" cy="312" r="0.6" fill="#7C3AED" opacity=".26"><animate attributeName="opacity" values=".1;.5;.1" dur="6s" begin="1.3s" repeatCount="indefinite"/></circle>
+      <circle cx="92" cy="200" r="0.5" fill="#7C3AED" opacity=".26"><animate attributeName="opacity" values=".15;.7;.15" dur="4s" begin="1.9999999999999998s" repeatCount="indefinite"/></circle>
+      <circle cx="310" cy="210" r="0.45" fill="#7C3AED" opacity=".26"></circle>
+      <circle cx="420" cy="248" r="0.5" fill="#7C3AED" opacity=".26"><animate attributeName="opacity" values=".15;.7;.15" dur="6s" begin="0.2s" repeatCount="indefinite"/></circle>
+      <circle cx="900" cy="372" r="0.6" fill="#7C3AED" opacity=".26"><animate attributeName="opacity" values=".1;.5;.1" dur="6s" begin="1.3s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <g transform="translate(800 196)">
+      <g opacity=".6">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="200s" repeatCount="indefinite"/>
+        <circle r="168" stroke="#7C3AED" stroke-opacity=".22" stroke-width="1" stroke-dasharray="2 10"/>
+      </g>
+      <circle r="150" stroke="#7C3AED" stroke-opacity=".34" stroke-width="1"/>
+      <circle r="112" stroke="#0891B2" stroke-opacity=".24" stroke-width="1"/>
+      <circle r="78" stroke="#111113" stroke-opacity=".09" stroke-width="1"/>
+      <ellipse rx="192" ry="60" transform="rotate(-22)" stroke="#111113" stroke-opacity=".08" stroke-width="1"/>
+      <circle r="38" fill="url(#planet)"/>
+      <circle r="38" fill="url(#shade)"/>
+      <ellipse rx="58" ry="15" transform="rotate(-18)" stroke="#6D28D9" stroke-opacity=".45" stroke-width="1.4"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="44s" repeatCount="indefinite"/>
+        <circle cx="150" cy="0" r="8" fill="#0891B2" opacity=".16"/>
+        <circle cx="150" cy="0" r="3.6" fill="#0891B2"/>
+      </g>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="32s" repeatCount="indefinite"/>
+        <circle cx="112" cy="0" r="2.6" fill="#7C3AED"/>
+      </g>
+    </g>
+
+    <g transform="translate(56 52)">
+      <rect width="232" height="32" rx="16" fill="#FFFFFF" stroke="#E4E4E7"/>
+      <circle cx="17" cy="16" r="3.5" fill="#0891B2">
+        <animate attributeName="opacity" values="1;.3;1" dur="2.6s" repeatCount="indefinite"/>
+      </circle>
+      <text x="31" y="20.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.2" letter-spacing="1.5" fill="#52525B">OPEN TO COLLABORATIONS</text>
+    </g>
+
+    <text x="56" y="182" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="68" font-weight="800" letter-spacing="2.5" fill="url(#ink)">DRAGADITYA</text>
+
+    <text x="56" y="218" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="16.5" fill="#52525B">
+      <tspan fill="#111113" font-weight="600">Aditya Wagh</tspan>
+      <tspan fill="#71717A">&#160;&#160;/&#160;&#160;</tspan>
+      <tspan>AI engineer &amp; full-stack builder</tspan>
+    </text>
+
+    <text x="56" y="254" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="15.5" fill="#52525B">Building AI tools. Shipping ideas. Dreaming beyond Earth.</text>
+
+    <rect x="56" y="292" width="284" height="1" fill="url(#rule)"/>
+
+    <g font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" letter-spacing="1.6" fill="#71717A">
+      <circle cx="59" cy="321" r="2.4" fill="#7C3AED"/>
+      <text x="70" y="324.5">MAHARASHTRA, IN</text>
+      <circle cx="199" cy="321" r="2.4" fill="#0891B2"/>
+      <text x="210" y="324.5">TEAMDRAG</text>
+      <circle cx="291" cy="321" r="2.4" fill="#7C3AED"/>
+      <text x="302" y="324.5">DRAGADI.ART</text>
+    </g>
+  </g>
+
+  <rect x="0.5" y="0.5" width="999" height="399" rx="23.5" stroke="url(#edge)" stroke-width="1"/>
+</svg>

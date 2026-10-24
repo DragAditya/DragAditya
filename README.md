@@ -1,443 +1,110 @@
-<!-- ========================================================= -->
-<!--                     DRAGADITYA README V2                  -->
-<!-- ========================================================= -->
-
 <p align="center">
-  <img src="./assets/readme-banner.png" width="100%" alt="DragAditya Banner"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DragAditya/DragAditya/main/assets/hero-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DragAditya/DragAditya/main/assets/hero-light.svg" />
+    <img src="assets/hero-dark.svg" alt="DragAditya — Aditya Wagh, AI engineer and full-stack builder from Maharashtra, India" width="100%" />
+  </picture>
 </p>
 
-<br>
-
-<div align="center">
-
-<h1 align="center">ᴅʀᴀɢᴀᴅɪᴛʏᴀ</h1> 
-### Software Engineer • AI Builder • Open Source • Dreamer
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3500&pause=1200&color=C792EA&center=true&vCenter=true&width=750&lines=Building+beautiful+software.;AI+Developer+%7C+Full+Stack.;Turning+ideas+into+reality.;Creating+tools+people+love.;Code.+Coffee.+Cosmos." />
-
-<br>
-
-<a href="https://dragadi-resume.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/DragAditya">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.npmjs.com/package/dragadix">
-<img src="https://img.shields.io/badge/DragX_CLI-CB3837?style=for-the-badge&logo=npm"/>
-</a>
-
-<a href="https://projectdebugger.onrender.com">
-<img src="https://img.shields.io/badge/ALTER-Live-7C3AED?style=for-the-badge"/>
-</a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=DragAditya&label=PROFILE+VIEWS&style=for-the-badge&color=7C3AED"/>
-
-<img src="https://img.shields.io/github/followers/DragAditya?style=for-the-badge&logo=github&color=7C3AED"/>
-
-<img src="https://img.shields.io/github/stars/DragAditya?affiliations=OWNER&style=for-the-badge&logo=github&color=7C3AED"/>
-
-<br>
-
-<a href="mailto:waghaditya312@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/DragAdi">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://instagram.com/mr.aditya.in">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-</a>
-
-<a href="https://x.com/MeneKudhKiya">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
-</a>
-
-</div>
-
----
-
 <p align="center">
-
-<a href="#-about">
-<img src="https://img.shields.io/badge/About-7C3AED?style=flat-square"/>
-</a>
-
-<a href="#-featured-projects">
-<img src="https://img.shields.io/badge/Projects-7C3AED?style=flat-square"/>
-</a>
-
-<a href="#-tech-stack">
-<img src="https://img.shields.io/badge/Tech-7C3AED?style=flat-square"/>
-</a>
-
-<a href="#-github-analytics">
-<img src="https://img.shields.io/badge/Stats-7C3AED?style=flat-square"/>
-</a>
-
-<a href="#-currently-building">
-<img src="https://img.shields.io/badge/Building-7C3AED?style=flat-square"/>
-</a>
-
-<a href="#-contact">
-<img src="https://img.shields.io/badge/Contact-7C3AED?style=flat-square"/>
-</a>
-
+  <a href="https://dragadi.art"><img src="https://img.shields.io/badge/PORTFOLIO-dragadi.art-7C3AED?style=flat-square&amp;labelColor=0B0B10&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" height="28" /></a>&nbsp;
+  <a href="https://dragadi-resume.vercel.app"><img src="https://img.shields.io/badge/RESUME-view-3F3F46?style=flat-square&amp;labelColor=0B0B10" alt="Resume" height="28" /></a>&nbsp;
+  <a href="https://linkedin.com/in/DragAdi"><img src="https://img.shields.io/badge/LINKEDIN-DragAdi-0A66C2?style=flat-square&amp;labelColor=0B0B10&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" height="28" /></a>&nbsp;
+  <a href="https://x.com/MeneKudhKiya"><img src="https://img.shields.io/badge/X-@MeneKudhKiya-18181B?style=flat-square&amp;labelColor=0B0B10&amp;logo=x&amp;logoColor=white" alt="X" height="28" /></a>&nbsp;
+  <a href="https://www.npmjs.com/package/dragadix"><img src="https://img.shields.io/badge/NPM-dragadix-CB3837?style=flat-square&amp;labelColor=0B0B10&amp;logo=npm&amp;logoColor=white" alt="npm" height="28" /></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:7C3AED&height=2"/>
+## 01 · About
 
-# 👋 About
+I build AI products, developer tools, and interfaces that get out of the way. Most of my work starts as a small *what if* and ends up shipped — from an AI reviewer that reads entire repositories to a CLI that turns plain English into Git commands.
 
-> *"I enjoy building software that feels magical, solving real problems with AI, and turning random ideas into polished products."*
+Based in Maharashtra, India. Currently an MCA student, building in public.
 
-I'm **Aditya Wagh**, an MCA student from Maharashtra who loves building modern software, AI tools, developer utilities and beautiful user experiences.
+- **Now** — building **CodeScan 2.0**, an AI code-review workspace that understands whole projects, not just snippets.
+- **Exploring** — AI agents, local-first software, and the craft of making complex things feel simple.
+- **Off-screen** — astronomy, anime, and an unreasonable amount of tea.
+- **Open to** — collaborations on AI tooling, developer experience, and ambitious side quests.
 
-Currently focused on:
+> Building products that feel simple on the outside and powerful underneath.
 
-- 🤖 Artificial Intelligence
-- ⚡ Full Stack Development
-- ☁️ Cloud Computing
-- 🚀 Open Source
-- 🎨 UI / UX
-- 🌌 Astronomy & Space
+## 02 · Toolbox
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:0D1117&height=2"/>
+**Languages**<br>
+<img src="https://skillicons.dev/icons?i=python,java,typescript,javascript&amp;theme=dark" alt="Python, Java, TypeScript, JavaScript" height="42" />
 
-# 🚀 Featured Projects
+**Frontend**<br>
+<img src="https://skillicons.dev/icons?i=react,html,css&amp;theme=dark" alt="React, HTML, CSS" height="42" />
 
-<div align="center">
+**Backend & data**<br>
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,supabase,firebase&amp;theme=dark" alt="Node.js, FastAPI, PostgreSQL, Supabase, Firebase" height="42" />
 
-> *A collection of projects built with curiosity, lots of tea, and a few thousand commits.*
+**Cloud & tools**<br>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,linux&amp;theme=dark" alt="AWS, Docker, Git, GitHub, Vercel, Linux" height="42" />
 
-</div>
+## 03 · Selected Work
 
-<br>
+A few things I've shipped and still care about.
 
-<table>
+<p>
+  <a href="https://github.com/DragAditya/CodeScan">
+    <img src="assets/project-codescan.svg" alt="CodeScan 2.0 — AI code review that reads whole projects, built with React, FastAPI, Supabase, and Gemini" width="100%" />
+  </a>
+</p>
 
-<tr>
+<p>
+  <a href="https://github.com/DragAditya/DragX-CLI">
+    <img src="assets/project-dragx.svg" alt="DragX CLI — a natural-language Git assistant built with Node.js and published on npm" width="100%" />
+  </a>
+</p>
 
-<td width="50%">
+<p>
+  <a href="https://github.com/DragAditya/ProjectDebugger">
+    <img src="assets/project-alter.svg" alt="ALTER — an AI debugger that explains cryptic errors, built with TypeScript, Gemini, Clerk, and React" width="100%" />
+  </a>
+</p>
 
-## 🔬 CodeScan
+<p>
+  <a href="https://github.com/DragAditya/PeerLock-Workspace">
+    <img src="assets/project-peerlock.svg" alt="PeerLock — local-first collaborative editing with Yjs, WebRTC, IndexedDB, and TypeScript" width="100%" />
+  </a>
+</p>
 
-AI-powered debugging platform built to understand, explain and fix code.
+<sub>More experiments, prototypes, and half-finished ideas live in my <a href="https://github.com/DragAditya?tab=repositories">repositories</a>.</sub>
 
-**Highlights**
+## 04 · GitHub Signals
 
-- 🤖 Gemini + Grok AI
-- ⚡ FastAPI Backend
-- ⚛️ React Frontend
-- ☁️ Supabase
-- 🔒 Security Analysis
-- 📈 Performance Suggestions
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DragAditya&amp;show_icons=true&amp;bg_color=0B0B10&amp;title_color=A78BFA&amp;icon_color=22D3EE&amp;text_color=A1A1AA&amp;border_color=26262F&amp;border_radius=16&amp;rank_icon=github&amp;include_all_commits=true&amp;count_private=true&amp;hide=contribs&amp;cache_seconds=86400" alt="Aditya's GitHub stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=DragAditya&amp;background=0B0B10&amp;border=26262F&amp;border_radius=16&amp;ring=A78BFA&amp;fire=22D3EE&amp;currStreakNum=F4F4F5&amp;currStreakLabel=A78BFA&amp;sideNums=F4F4F5&amp;sideLabels=A1A1AA&amp;dates=71717A" alt="Aditya's GitHub streak" />
+</p>
 
-**Tech**
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DragAditya/DragAditya/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DragAditya/DragAditya/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/DragAditya/DragAditya/output/github-snake-dark.svg" alt="A snake eating through my GitHub contribution grid" width="100%" />
+  </picture>
+</p>
 
-`Python`
-`FastAPI`
-`React`
-`Supabase`
-`Gemini API`
+## 05 · Now
 
-<br>
+| **BUILDING** | **LEARNING** | **OFF THE CLOCK** |
+| :---: | :---: | :---: |
+| **CodeScan 2.0**<br><sub>AI code review, end to end</sub> | **AI agents**<br><sub>Tool use, memory, evaluation</sub> | **Astronomy**<br><sub>Deep-sky objects, launch windows</sub> |
+| **DragX CLI**<br><sub>Natural-language Git</sub> | **Local-first apps**<br><sub>CRDTs and real-time sync</sub> | **Tea**<br><sub>An unreasonable amount</sub> |
 
-<a href="https://github.com/DragAditya">
-<img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge"/>
-</a>
+## 06 · Connect
 
-</td>
+<p align="center">
+  <a href="mailto:waghaditya312@gmail.com">
+    <img src="https://img.shields.io/badge/SAY_HELLO-waghaditya312%40gmail.com-7C3AED?style=for-the-badge&amp;labelColor=0B0B10&amp;logo=gmail&amp;logoColor=white" alt="Say hello by email" />
+  </a>
+</p>
 
-<td width="50%">
+<p align="center">
+  <sub>Maharashtra, India · UTC+5:30 · Open to bold ideas and good problems.</sub>
+</p>
 
-## ⚡ DragX CLI
-
-Natural language Git & GitHub assistant.
-
-Type English.
-
-Get Git commands.
-
-**Highlights**
-
-- 📦 Published on npm
-- 💬 Hinglish Support
-- ⚡ Git Automation
-- 🚀 Developer Productivity
-- 🔥 Beginner Friendly
-
-**Tech**
-
-`Node.js`
-`CLI`
-`Git`
-`npm`
-
-<br>
-
-<a href="https://www.npmjs.com/package/dragadix">
-<img src="https://img.shields.io/badge/View_on_npm-CB3837?style=for-the-badge&logo=npm"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 💍 Padmavati Girvi
-
-Private management platform built for a jewellery business.
-
-**Highlights**
-
-- 📱 Mobile First
-- 💰 Gold Loan Tracking
-- 📊 Analytics
-- 🔐 Google Login
-- 📁 Firebase Database
-
-**Tech**
-
-`Firebase`
-
-`JavaScript`
-
-`Chart.js`
-
-`PWA`
-
-</td>
-
-<td width="50%">
-
-## 🤖 ALTER
-
-Explain bugs.
-
-Understand errors.
-
-Fix code faster.
-
-**Highlights**
-
-- 🧠 AI Explanations
-- ⚡ Instant Analysis
-- 💻 Beginner Friendly
-- 📚 Error Learning
-- 🌍 Live Demo
-
-**Tech**
-
-`Python`
-
-`FastAPI`
-
-`Gemini`
-
-`React`
-
-<br>
-
-<a href="https://projectdebugger.onrender.com">
-<img src="https://img.shields.io/badge/Open_Live_App-7C3AED?style=for-the-badge"/>
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-## 🌌 More Projects
-
-<div align="center">
-
-| Project | Description |
-|---------|-------------|
-| 🎮 FunTimer | Ultra precision reaction game |
-| 🤖 GitHub Automation | Repository workflow automation |
-| 🎬 MarsTapes | Modern media management platform |
-| 📚 Library Management | College Java project |
-| 📋 Attendance System | Python-based attendance tracker |
-| ☁️ CloudCalc | Cloud utility toolkit |
-| 📄 AskMyDocs | AI document assistant |
-| 💰 MoneyCounter | Smart money counting utility |
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 💜 *Every project teaches something new.*
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:0D1117&height=2"/>
-
----
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,ts,react,nodejs,fastapi,supabase,postgres,aws,docker,git&theme=dark"/>
-
-<br>
-
-`Python` · `React` · `FastAPI` · `AI` · `Cloud` · `Open Source`
-
-</div>
-
----
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:0D1117&height=2"/>
-
-# ✦ Currently
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td align="center" width="33%">
-
-### 🔬 Building
-
-**CodeScan**
-
-AI-powered debugging platform.
-
-</td>
-
-<td align="center" width="33%">
-
-### 🌱 Learning
-
-**AI Agents**
-
-LLMs • Automation • Cloud
-
-</td>
-
-<td align="center" width="33%">
-
-### ☕ Living
-
-Tea • Anime • Astronomy
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-> *Building products that feel simple on the outside and powerful underneath.*
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:0D1117&height=2"/>
-
----
-
-# 📈 Skill Confidence
-
-<div align="center">
-
-| Skill | Level |
-|------|----------------------------|
-| Python | ████████████████████ 95% |
-| JavaScript | ██████████████████ 90% |
-| React | █████████████████ 88% |
-| FastAPI | ████████████████ 85% |
-| AI Integration | ████████████████ 85% |
-| AWS | ██████████████ 80% |
-| Supabase | ██████████████ 80% |
-| Docker | █████████ 60% |
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 💜 Always learning. Always building.
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:0D1117&height=2"/>
-
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:0D1117&height=2"/>
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-> *"Every green square is another step forward."*
-
-</div>
-
-<br>
-
-<!-- ========================= -->
-<!--        MAIN STATS         -->
-<!-- ========================= -->
-
-<div align="center">
-
-<img width="80%" src="https://github-readme-stats.vercel.app/api?username=DragAditya&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=C792EA&icon_color=C792EA&text_color=FFFFFF&rank_icon=percentile&count_private=true&include_all_commits=true"/>
-
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=DragAditya&theme=github-dark&hide_border=true&background=00000000&ring=C792EA&fire=C792EA&currStreakLabel=C792EA"/>
-
-</div>
-
-<br>
-
-<!-- ========================= -->
-<!--      LANGUAGE STATS       -->
-<!-- ========================= -->
-
-<div align="center">
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=DragAditya&theme=github-dark&bg_color=00000000&hide_border=true&color=C792EA&line=C792EA&point=FFFFFF&area=true&radius=8"/>
-
-</div>
-
-<br>
-
-<!-- ========================= -->
-<!--     CONTRIBUTION SNAKE    -->
-<!-- ========================= -->
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-
-
-
-
-
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0D1117&height=170&section=footer&text=Thanks+for+Visiting+💜&fontColor=FFFFFF&fontSize=28&fontAlignY=60&animation=fadeIn"/>
-
-</div>
+<p align="center">
+  <img src="assets/footer.svg" alt="Thanks for stopping by. Made on Earth, aiming for orbit." width="100%" />
+</p>

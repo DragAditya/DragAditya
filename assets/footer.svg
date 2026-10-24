@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 176" width="1000" height="176" fill="none" role="img" aria-labelledby="ft fd">
+  <title id="ft">Thanks for stopping by</title>
+  <desc id="fd">DragAditya footer. Made on Earth, aiming for orbit.</desc>
+  <defs>
+    <linearGradient id="cardbg" x1="0" y1="0" x2="1000" y2="176" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A0A0F"/>
+      <stop offset=".55" stop-color="#0C0B13"/>
+      <stop offset="1" stop-color="#09090D"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1000" y2="176" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA" stop-opacity=".45"/>
+      <stop offset=".5" stop-color="#3F3F46" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity=".35"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#A78BFA" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#A78BFA" stop-opacity=".7"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="55"/>
+    </filter>
+    <clipPath id="frame">
+      <rect width="1000" height="176" rx="24"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1000" height="176" fill="url(#cardbg)"/>
+    <g filter="url(#soft)">
+      <circle cx="500" cy="176" r="230" fill="#7C3AED" opacity=".18"/>
+      <circle cx="940" cy="0" r="130" fill="#22D3EE" opacity=".08"/>
+    </g>
+    <g fill="#FFFFFF">
+      <circle cx="76" cy="42" r=".9" opacity=".4"/>
+      <circle cx="188" cy="126" r=".7" opacity=".3"/>
+      <circle cx="302" cy="54" r=".8" opacity=".35"/>
+      <circle cx="704" cy="40" r=".8" opacity=".35"/>
+      <circle cx="842" cy="120" r=".9" opacity=".3"/>
+      <circle cx="930" cy="58" r=".7" opacity=".35"/>
+    </g>
+    <rect x="330" y="40" width="120" height="1" fill="url(#fade)"/>
+    <rect x="550" y="40" width="120" height="1" fill="url(#fade)"/>
+    <path d="M500 30C501.7 36.8 503.2 38.3 510 40C503.2 41.7 501.7 43.2 500 50C498.3 43.2 496.8 41.7 490 40C496.8 38.3 498.3 36.8 500 30Z" fill="#A78BFA"/>
+    <text x="500" y="100" text-anchor="middle" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="27" font-weight="700" fill="#F4F4F5">Thanks for stopping by.</text>
+    <text x="500" y="127" text-anchor="middle" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" letter-spacing="1.8" fill="#71717A">MADE ON EARTH — AIMING FOR ORBIT</text>
+    <text x="500" y="153" text-anchor="middle" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="9" letter-spacing="1.6" fill="#52525B">© 2026 ADITYA WAGH</text>
+  </g>
+  <rect x="0.5" y="0.5" width="999" height="175" rx="23.5" stroke="url(#edge)" stroke-width="1"/>
+</svg>

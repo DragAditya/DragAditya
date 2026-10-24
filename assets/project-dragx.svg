@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 176" width="1000" height="176" fill="none" role="img" aria-labelledby="ct cd">
+  <title id="ct">DragX CLI — Developer Tool</title>
+  <desc id="cd">A natural-language Git assistant. Ask in plain English (or Hinglish), get the command you meant. Built with Node.js, CLI, Git, npm.</desc>
+  <defs>
+    <linearGradient id="cardbg" x1="0" y1="0" x2="1000" y2="176" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0C0C11"/>
+      <stop offset=".6" stop-color="#0B0B10"/>
+      <stop offset="1" stop-color="#09090E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="32" x2="0" y2="144" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#0891B2" stop-opacity=".35"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop stop-color="#22D3EE" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="frame">
+      <rect width="1000" height="176" rx="18"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1000" height="176" fill="url(#cardbg)"/>
+    <circle cx="910" cy="88" r="190" fill="url(#glow)"/>
+    <text x="958" y="158" text-anchor="end" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="118" font-weight="800" fill="#22D3EE" opacity=".055">02</text>
+  </g>
+
+  <rect x="0.5" y="0.5" width="999" height="175" rx="17.5" stroke="#26262F" stroke-width="1"/>
+  <rect x="0.5" y="0.5" width="999" height="1" fill="#FFFFFF" opacity=".05"/>
+  <rect x="40" y="32" width="2" height="112" rx="1" fill="url(#accent)"/>
+
+  <text x="68" y="46" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" letter-spacing="1.6" fill="#22D3EE" opacity=".9">02 · DEVELOPER TOOL</text>
+  <text x="68" y="92" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#F4F4F5">DragX CLI</text>
+  <text x="68" y="119" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#A1A1AA">A natural-language Git assistant. Ask in plain English (or Hinglish), get the command you meant.</text>
+
+  <rect x="68" y="139" width="4" height="4" fill="#22D3EE" opacity=".8"/>
+  <text x="80" y="146" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" letter-spacing=".5" fill="#8B8B96">Node.js&#160;&#160;·&#160;&#160;CLI&#160;&#160;·&#160;&#160;Git&#160;&#160;·&#160;&#160;npm</text>
+
+  <g transform="translate(942 88)">
+    <circle r="19" stroke="#22D3EE" stroke-opacity=".35"/>
+    <path d="M-5 5L5 -5M-1 -5H5V1" stroke="#22D3EE" stroke-opacity=".9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
