@@ -9,8 +9,8 @@
 <p align="center">
   <a href="https://dragadi.art"><img src="https://img.shields.io/badge/PORTFOLIO-dragadi.art-7C3AED?style=flat-square&amp;labelColor=0B0B10&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" height="28" /></a>&nbsp;
   <a href="https://dragadi-resume.vercel.app"><img src="https://img.shields.io/badge/RESUME-view-3F3F46?style=flat-square&amp;labelColor=0B0B10" alt="Resume" height="28" /></a>&nbsp;
-  <a href="https://linkedin.com/in/DragAdi"><img src="https://img.shields.io/badge/LINKEDIN-DragAdi-0A66C2?style=flat-square&amp;labelColor=0B0B10&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" height="28" /></a>&nbsp;
-  <a href="https://x.com/MeneKudhKiya"><img src="https://img.shields.io/badge/X-@MeneKudhKiya-18181B?style=flat-square&amp;labelColor=0B0B10&amp;logo=x&amp;logoColor=white" alt="X" height="28" /></a>&nbsp;
+  <a href="https://linkedin.com/in/DragAdi"><img src="https://img.shields.io/badge/LINKEDIN-dragadi-0A66C2?style=flat-square&amp;labelColor=0B0B10&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" height="28" /></a>&nbsp;
+  <a href="https://x.com/_dragaditya"><img src="https://img.shields.io/badge/X-@_dragaditya-18181B?style=flat-square&amp;labelColor=0B0B10&amp;logo=x&amp;logoColor=white" alt="X" height="28" /></a>&nbsp;
   <a href="https://www.npmjs.com/package/dragadix"><img src="https://img.shields.io/badge/NPM-dragadix-CB3837?style=flat-square&amp;labelColor=0B0B10&amp;logo=npm&amp;logoColor=white" alt="npm" height="28" /></a>
 </p>
 
