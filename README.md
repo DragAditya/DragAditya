@@ -1,3 +1,5 @@
+
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DragAditya/DragAditya/main/assets/hero-dark.svg" />
@@ -88,11 +90,8 @@ A few things I've shipped and still care about.
 
 ## 05 · Now
 
-| **BUILDING** | **LEARNING** | **OFF THE CLOCK** |
-| :---: | :---: | :---: |
-| **CodeScan 2.0**<br><sub>AI code review, end to end</sub> | **AI agents**<br><sub>Tool use, memory, evaluation</sub> | **Astronomy**<br><sub>Deep-sky objects, launch windows</sub> |
-| **DragX CLI**<br><sub>Natural-language Git</sub> | **Local-first apps**<br><sub>CRDTs and real-time sync</sub> | **Tea**<br><sub>An unreasonable amount</sub> |
 
+<img src="https://raw.githubusercontent.com/DragAditya/DragAditya/main/assets/commit-metro.svg" alt="Commit Metro" width="100%" />
 ## 06 · Connect
 
 <p align="center">
